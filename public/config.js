@@ -16,7 +16,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_NAME": "FourDex",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
-  "VITE_HAS_SECONDARY_LOGO": "false",
+  "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard",
   "VITE_CUSTOM_MENUS": "Analytics, https://ai.fourdexbnb.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
