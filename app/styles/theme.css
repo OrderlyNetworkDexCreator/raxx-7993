@@ -39,7 +39,7 @@
   --oui-color-base-4: 5 5 5;
   --oui-color-base-5: 3 3 3;
   --oui-color-base-6: 1 1 1;
-  --oui-color-base-7: 188 145 6;
+  --oui-color-base-7: 126 102 21;
   --oui-color-base-8: 0 0 0;
   --oui-color-base-9: 0 0 0;
   --oui-color-base-10: 0 0 0;
@@ -49,7 +49,7 @@
 
   --oui-color-trading-loss: 255 0 0;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 240 185 11;
+  --oui-color-trading-profit: 0 255 0;
   --oui-color-trading-profit-contrast: 0 0 0;
 
   /* gradients */
