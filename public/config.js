@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Swap",
   "VITE_CUSTOM_MENUS": "AI Analysis Agent, https://ai.fourdexbnb.com/; Twitter, https://x.com/fourdex_bsc",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
