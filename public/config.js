@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://fourdexbnb.com",
   "VITE_SEO_SITE_LANGUAGE": "zh",
   "VITE_SEO_SITE_LOCALE": "zh_CN",
-  "VITE_SEO_TWITTER_HANDLE": "",
+  "VITE_SEO_TWITTER_HANDLE": "@FOURDEX_BSC",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "dex,crypto,defi,meme,binance,perps,perpetual,trading,traders",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
